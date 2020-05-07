@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{8A8C594-3DD1-45D2-A74C-4E39F5AF7C31}</ProjectGuid>
+    <ProjectGuid>{08A8C594-3DD1-45D2-A74C-4E39F5AF7C31}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>task4</RootNamespace>
   </PropertyGroup>
